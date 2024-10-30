@@ -1,1 +1,1 @@
-# postgresql-advanced-202410
+# Домашние работы по курсу PostgreSQL.Advanced OTUS
